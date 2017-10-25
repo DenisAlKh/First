@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+cout<<"tester123";
+cout<<"tester";
+cout<<"tester241421";
+return 0;
+}
